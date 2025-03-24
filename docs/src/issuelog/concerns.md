@@ -1,0 +1,1 @@
+What does the uniqueCode value represent in the issuelog type?

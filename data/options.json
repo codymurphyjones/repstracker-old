@@ -1,0 +1,92 @@
+{
+  "option.blog_status": {
+    "id": "access_option_blog_status",
+    "display": "Access",
+    "type": "option.blog_status"
+  },
+  "option.blog_privacy": {
+    "id": "privacy_option_blog_privacy",
+    "display": "Privacy",
+    "type": "option.blog_privacy"
+  },
+  "option.activity_category_type": {
+    "id": "activity_type_option_activity_category_type",
+    "display": "Time Entry Category",
+    "type": "option.activity_category_type"
+  },
+  "option.coupon_code_type__os_": {
+    "id": "type_option_coupon_code_type__os_",
+    "display": "Type",
+    "type": "option.coupon_code_type__os_"
+  },
+  "option.faq_type": {
+    "id": "type_option_faq_type",
+    "display": "Type",
+    "type": "option.faq_type"
+  },
+  "option.severity": {
+    "id": "logging_level_option_severity",
+    "display": "Logging Level",
+    "type": "option.severity"
+  },
+  "option.investor_type0": {
+    "id": "mode_option_investor_type0",
+    "display": "xMode",
+    "type": "option.investor_type0"
+  },
+  "option.investor_type_mode": {
+    "id": "mode_option_investor_type_mode",
+    "display": "Mode",
+    "type": "option.investor_type_mode"
+  },
+  "option.team_role": {
+    "id": "role_option_team_role",
+    "display": "Role",
+    "type": "option.team_role"
+  },
+  "option.activity_categories__os_": {
+    "id": "activity_category_option_activity_categories__os_",
+    "display": "Activity Subcategory",
+    "type": "option.activity_categories__os_"
+  },
+  "option.group__os_": {
+    "id": "activity_group_option_group__os_",
+    "display": "Activity Group",
+    "type": "option.group__os_"
+  },
+  "option.activity_group__os_": {
+    "id": "activity_group_str_option_activity_group__os_",
+    "display": "Activity Group STR",
+    "type": "option.activity_group__os_"
+  },
+  "option.property_type": {
+    "id": "property_category_option_property_type",
+    "display": "xProperty Category",
+    "type": "option.property_type"
+  },
+  "option.time_unit": {
+    "id": "time_spent_on_activity_option_time_unit",
+    "display": "xTime Unit",
+    "type": "option.time_unit"
+  },
+  "option.activity_system_type": {
+    "id": "activity_system_type_option_activity_system_type",
+    "display": "Activity System Type",
+    "type": "option.activity_system_type"
+  },
+  "option.onboarding_type": {
+    "id": "needs_onboarding_option_onboarding_type",
+    "display": "Needs Onboarding",
+    "type": "option.onboarding_type"
+  },
+  "option.str_target_mode": {
+    "id": "str_target_option_str_target_mode",
+    "display": "STR Target",
+    "type": "option.str_target_mode"
+  },
+  "option.stripe_plan": {
+    "id": "stripe_plan_option_stripe_plan",
+    "display": "Plan",
+    "type": "option.stripe_plan"
+  }
+}

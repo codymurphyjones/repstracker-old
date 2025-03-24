@@ -1,0 +1,5 @@
+Date,Description,Hours,Minutes,Property,Property 2,Property 3,Team Member,Material?,Activity Group,Activity Subcategory,Type,Extra Data,Category
+12/1/2024,test material,1,1,Home,Mad Max,Cody,Kristina Kringle,Yes,Property Management,,LTR,1,Material
+1/1/2025,Test General,2,2,Mad Max,,,,FALSE,Other,Other,ltr,2,General
+2/1/2025,Test  str,3,3,"North Pole, AK 99705, USA","9 Stirling St, Silverton NSW 2880, Australia",,Karl Kringle,,Bookkeeping,,STR,five,
+3/1/2025,Test Empty,4,4,,,,,no,,,LTR,,

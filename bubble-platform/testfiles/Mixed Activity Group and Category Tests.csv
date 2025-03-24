@@ -1,0 +1,10 @@
+Date,Description,Hours,Minutes,Property,Team Member,Category,Activity Group,Activity Subcategory,Activity1,Type
+01/01/23,Test 1,1,1,Home,,,,,,STR
+2023-02-02,Test 2,2,2,Home,,Material,,,,STR
+03/03/23,Test 3,3,3,Home,,General,,,,STR
+04/04/23,Test 4,4,4,Home,Karl Kringle,,,,,STR
+05/05/23,Test 5,5,5,Home,Karl Kringle,M,,,,STR
+06/06/23,Test 6,6,6,Home,Karl Kringle,G,,,,STR
+07/07/23,Test 7,7,7,Home,Kristina Kringle,M,Other,,Other,STR
+08/08/23,Test 8,8,8,Home,Karl Kringle,,Other,,Other,STR
+09/09/23,Test 9,9,9,Home,Karl Kringle,,,Other,,STR

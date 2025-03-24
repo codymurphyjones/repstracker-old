@@ -1,0 +1,224 @@
+Date,Hours,Minutes,Description,Team Member,Type,Category,Property,Activity
+3/13/2024,3,0,test1,Ronald Raymond,LTR,Material,LTR Property,Property Management
+12/10/2024,2,0,test2,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+6/21/2024,5,0,test3,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+7/11/2024,6,0,test4,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+10/24/2024,4,0,test5,Ronald Raymond,LTR,Material,LTR Property,Property Management
+7/21/2024,3,0,test6,Ronald Raymond,LTR,Material,LTR Property,Other
+8/2/2024,9,0,test7,Ronald Raymond,STR,Material,STR Property,Other
+6/4/2024,6,0,test8,Ronald Raymond,STR,Material,STR Property,Other
+12/30/2024,6,0,test9,Riley Raymond,LTR,Material,LTR Property,Property Management
+10/30/2024,5,0,test10,Riley Raymond,STR,Material,STR Property,Property Management
+8/14/2024,7,0,test11,Riley Raymond,LTR,Material,LTR Property,Property Management
+10/4/2024,7,0,test12,Riley Raymond,STR,Material,STR Property,Property Management
+4/6/2024,1,0,test13,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/6/2024,6,0,test14,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+4/16/2024,5,0,test15,Ronald Raymond,STR,Material,STR Property,Property Management
+1/11/2024,3,0,test16,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/6/2024,5,0,test17,Ronald Raymond,STR,Material,STR Property,Property Management
+10/14/2024,8,0,test18,Ronald Raymond,STR,Material,STR Property,Other
+7/24/2024,4,0,test19,Ronald Raymond,LTR,Material,LTR Property,Other
+9/30/2024,2,0,test20,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+1/11/2024,5,0,test21,Riley Raymond,LTR,Material,LTR Property,Other
+3/13/2024,6,0,test22,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+3/30/2024,1,0,test23,Riley Raymond,LTR,Material,LTR Property,Property Selling
+8/30/2024,2,0,test24,Riley Raymond,LTR,Material,LTR Property,Property Selling
+5/19/2024,2,0,test25,Riley Raymond,LTR,Material,LTR Property,Property Management
+11/23/2024,5,0,test26,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+3/3/2024,1,0,test27,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+12/2/2024,2,0,test28,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/21/2024,9,0,test29,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/10/2024,7,0,test30,Riley Raymond,STR,Material,STR Property,Other
+9/12/2024,9,0,test31,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+12/17/2024,4,0,test32,Ronald Raymond,LTR,Material,LTR Property,Property Management
+6/8/2024,6,0,test33,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/14/2024,2,0,test34,Ronald Raymond,LTR,Material,LTR Property,Other
+8/27/2024,3,0,test35,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+6/25/2024,9,0,test36,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+3/16/2024,4,0,test37,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+7/7/2024,4,0,test38,Ronald Raymond,STR,Material,STR Property,Other
+9/16/2024,9,0,test39,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+4/17/2024,9,0,test40,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+8/9/2024,9,0,test41,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+8/9/2024,5,0,test42,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+11/12/2024,3,0,test43,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+4/14/2024,5,0,test44,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+4/11/2024,1,0,test45,Riley Raymond,LTR,Material,LTR Property,Property Management
+7/8/2024,3,0,test46,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+6/29/2024,4,0,test47,Ronald Raymond,STR,Material,STR Property,Other
+4/9/2024,6,0,test48,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+10/23/2024,9,0,test49,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+12/24/2024,7,0,test50,Ronald Raymond,LTR,Material,LTR Property,Property Management
+5/24/2024,9,0,test51,Ronald Raymond,LTR,Material,LTR Property,Property Management
+11/3/2024,7,0,test52,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+2/14/2024,7,0,test53,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+8/29/2024,5,0,test54,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+12/7/2024,4,0,test55,Riley Raymond,LTR,Material,LTR Property,Property Management
+10/21/2024,6,0,test56,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/14/2024,6,0,test57,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+6/5/2024,2,0,test58,Ronald Raymond,LTR,Material,LTR Property,Property Management
+2/2/2024,4,0,test59,Riley Raymond,LTR,Material,LTR Property,Other
+1/13/2024,3,0,test60,Ronald Raymond,STR,Material,STR Property,Property Selling
+8/25/2024,7,0,test61,Riley Raymond,LTR,Material,LTR Property,Property Selling
+3/23/2024,1,0,test62,Ronald Raymond,LTR,Material,LTR Property,Property Management
+5/10/2024,9,0,test63,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+5/24/2024,3,0,test64,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+7/19/2024,8,0,test65,Riley Raymond,STR,Material,STR Property,Property Selling
+10/31/2024,4,0,test66,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+1/4/2024,7,0,test67,Riley Raymond,STR,Material,STR Property,Other
+12/22/2024,3,0,test68,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+11/24/2024,8,0,test69,Riley Raymond,LTR,Material,LTR Property,Property Management
+7/5/2024,8,0,test70,Riley Raymond,LTR,Material,LTR Property,Other
+3/4/2024,1,0,test71,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+2/26/2024,2,0,test72,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+9/2/2024,1,0,test73,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+10/7/2024,4,0,test74,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+2/13/2024,4,0,test75,Riley Raymond,LTR,Material,LTR Property,Other
+11/7/2024,8,0,test76,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/18/2024,2,0,test77,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+11/24/2024,6,0,test78,Riley Raymond,STR,Material,STR Property,Property Management
+6/30/2024,5,0,test79,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+8/9/2024,3,0,test80,Ronald Raymond,LTR,Material,LTR Property,Other
+8/26/2024,8,0,test81,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+6/11/2024,6,0,test82,Riley Raymond,STR,Material,STR Property,Other
+5/8/2024,8,0,test83,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+8/22/2024,3,0,test84,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+8/14/2024,4,0,test85,Riley Raymond,LTR,Material,LTR Property,Property Selling
+3/7/2024,5,0,test86,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+7/1/2024,1,0,test87,Ronald Raymond,STR,Material,STR Property,Other
+6/4/2024,2,0,test88,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+7/18/2024,3,0,test89,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+10/31/2024,3,0,test90,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+11/29/2024,2,0,test91,Riley Raymond,STR,Material,STR Property,Property Selling
+9/26/2024,8,0,test92,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+12/11/2024,3,0,test93,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+4/4/2024,8,0,test94,Ronald Raymond,STR,Material,STR Property,Property Management
+3/11/2024,3,0,test95,Riley Raymond,LTR,Material,LTR Property,Other
+12/29/2024,4,0,test96,Ronald Raymond,LTR,Material,LTR Property,Other
+5/26/2024,6,0,test97,Ronald Raymond,LTR,Material,LTR Property,Other
+8/18/2024,1,0,test98,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/18/2024,8,0,test99,Ronald Raymond,LTR,Material,LTR Property,Other
+3/6/2024,7,0,test100,Ronald Raymond,STR,Material,STR Property,Other
+6/21/2024,2,0,test101,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+6/18/2024,1,0,test102,Riley Raymond,STR,Material,STR Property,Property Management
+10/20/2024,1,0,test103,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/24/2024,1,0,test104,Riley Raymond,STR,Material,STR Property,Other
+12/5/2024,8,0,test105,Riley Raymond,LTR,Material,LTR Property,Other
+10/5/2024,5,0,test106,Riley Raymond,STR,Material,STR Property,Other
+9/11/2024,6,0,test107,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/1/2024,4,0,test108,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+1/2/2024,4,0,test109,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/13/2024,1,0,test110,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/18/2024,8,0,test111,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/27/2024,5,0,test112,Ronald Raymond,STR,Material,STR Property,Other
+10/15/2024,7,0,test113,Riley Raymond,LTR,Material,LTR Property,Property Selling
+2/14/2024,2,0,test114,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+8/22/2024,1,0,test115,Riley Raymond,LTR,Material,LTR Property,Property Selling
+7/28/2024,1,0,test116,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+4/14/2024,5,0,test117,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+11/2/2024,9,0,test118,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/23/2024,7,0,test119,Riley Raymond,LTR,Material,LTR Property,Other
+5/1/2024,7,0,test120,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/31/2024,9,0,test121,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+7/7/2024,9,0,test122,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/14/2024,2,0,test123,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+5/31/2024,5,0,test124,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/5/2024,5,0,test125,Ronald Raymond,LTR,Material,LTR Property,Property Management
+4/24/2024,8,0,test126,Riley Raymond,LTR,Material,LTR Property,Property Management
+9/3/2024,1,0,test127,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+1/26/2024,3,0,test128,Riley Raymond,LTR,Material,LTR Property,Property Management
+3/31/2024,2,0,test129,Riley Raymond,LTR,Material,LTR Property,Property Selling
+2/6/2024,4,0,test130,Ronald Raymond,STR,Material,STR Property,Property Management
+12/21/2024,5,0,test131,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+1/18/2024,9,0,test132,Ronald Raymond,LTR,Material,LTR Property,Property Management
+5/20/2024,9,0,test133,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/25/2024,3,0,test134,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+3/18/2024,7,0,test135,Riley Raymond,LTR,Material,LTR Property,Property Selling
+3/3/2024,1,0,test136,Riley Raymond,STR,Material,STR Property,Property Selling
+5/5/2024,6,0,test137,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+11/14/2024,7,0,test138,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+11/19/2024,1,0,test139,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+4/14/2024,4,0,test140,Riley Raymond,LTR,Material,LTR Property,Property Management
+7/20/2024,1,0,test141,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+12/5/2024,5,0,test142,Ronald Raymond,LTR,Material,LTR Property,Property Management
+3/2/2024,4,0,test143,Riley Raymond,LTR,Material,LTR Property,Other
+7/28/2024,3,0,test144,Riley Raymond,LTR,Material,LTR Property,Other
+2/24/2024,2,0,test145,Riley Raymond,LTR,Material,LTR Property,Other
+11/4/2024,5,0,test146,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+1/25/2024,9,0,test147,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+2/8/2024,1,0,test148,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+3/9/2024,8,0,test149,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+5/10/2024,5,0,test150,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+7/31/2024,5,0,test151,Riley Raymond,STR,Material,STR Property,Other
+1/2/2024,2,0,test152,Ronald Raymond,STR,Material,STR Property,Property Management
+6/10/2024,4,0,test153,Riley Raymond,LTR,Material,LTR Property,Other
+12/23/2024,9,0,test154,Riley Raymond,STR,Material,STR Property,Other
+12/24/2024,8,0,test155,Ronald Raymond,LTR,Material,LTR Property,Property Management
+6/8/2024,9,0,test156,Ronald Raymond,LTR,Material,LTR Property,Property Management
+5/8/2024,7,0,test157,Riley Raymond,STR,Material,STR Property,Other
+6/1/2024,1,0,test158,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+8/19/2024,8,0,test159,Riley Raymond,STR,Material,STR Property,Property Selling
+8/16/2024,9,0,test160,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+5/5/2024,6,0,test161,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+10/2/2024,8,0,test162,Ronald Raymond,STR,Material,STR Property,Property Management
+8/17/2024,7,0,test163,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+12/30/2024,5,0,test164,Riley Raymond,STR,Material,STR Property,Other
+4/17/2024,7,0,test165,Riley Raymond,LTR,Material,LTR Property,Property Management
+12/16/2024,7,0,test166,Riley Raymond,STR,Material,STR Property,Property Management
+1/27/2024,5,0,test167,Riley Raymond,STR,Material,STR Property,Other
+7/8/2024,2,0,test168,Riley Raymond,LTR,Material,LTR Property,Property Management
+7/14/2024,3,0,test169,Riley Raymond,STR,Material,STR Property,Property Selling
+5/26/2024,1,0,test170,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+9/24/2024,9,0,test171,Ronald Raymond,STR,Material,STR Property,Property Selling
+9/7/2024,2,0,test172,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+2/2/2024,1,0,test173,Riley Raymond,LTR,Material,LTR Property,Property Management
+4/8/2024,1,0,test174,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+3/1/2024,2,0,test175,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+4/17/2024,6,0,test176,Ronald Raymond,LTR,Material,LTR Property,Other
+5/29/2024,9,0,test177,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+5/7/2024,5,0,test178,Riley Raymond,LTR,Material,LTR Property,Property Management
+5/12/2024,5,0,test179,Ronald Raymond,STR,Material,STR Property,Property Acquisitions
+1/20/2024,3,0,test180,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+5/25/2024,7,0,test181,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+2/5/2024,4,0,test182,Ronald Raymond,STR,Material,STR Property,Other
+3/7/2024,9,0,test183,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/9/2024,1,0,test184,Riley Raymond,STR,Material,STR Property,Other
+9/6/2024,8,0,test185,Ronald Raymond,STR,Material,STR Property,Property Management
+10/7/2024,5,0,test186,Riley Raymond,STR,Material,STR Property,Other
+5/13/2024,9,0,test187,Riley Raymond,LTR,Material,LTR Property,Property Management
+8/15/2024,8,0,test188,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+12/1/2024,1,0,test189,Ronald Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+1/28/2024,2,0,test190,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions
+6/15/2024,9,0,test191,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+10/28/2024,9,0,test192,Ronald Raymond,LTR,Material,LTR Property,Other
+9/26/2024,2,0,test193,Riley Raymond,STR,Material,STR Property,Property Selling
+9/6/2024,6,0,test194,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/28/2024,9,0,test195,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+2/6/2024,5,0,test196,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/27/2024,9,0,test197,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+10/15/2024,7,0,test198,Riley Raymond,STR,Material,STR Property,Property Selling
+10/14/2024,2,0,test199,Riley Raymond,STR,Material,STR Property,Other
+8/11/2024,2,0,test200,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+12/10/2024,5,0,test201,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+4/16/2024,3,0,test202,Ronald Raymond,STR,Material,STR Property,Property Management
+10/21/2024,6,0,test203,Ronald Raymond,LTR,Material,LTR Property,Other
+5/23/2024,5,0,test204,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+10/23/2024,2,0,test205,Riley Raymond,STR,Material,STR Property,Other
+1/26/2024,7,0,test206,Riley Raymond,LTR,Material,LTR Property,Other
+6/16/2024,1,0,test207,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+11/5/2024,6,0,test208,Riley Raymond,STR,Material,STR Property,Property Selling
+3/9/2024,1,0,test209,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+1/20/2024,8,0,test210,Riley Raymond,LTR,Material,LTR Property,Property Improvements and Repairs
+3/7/2024,7,0,test211,Riley Raymond,LTR,Material,LTR Property,Other
+12/7/2024,5,0,test212,Ronald Raymond,STR,Material,STR Property,Other
+12/21/2024,8,0,test213,Ronald Raymond,LTR,Material,LTR Property,Property Selling
+7/7/2024,7,0,test214,Riley Raymond,LTR,Material,LTR Property,Other
+7/27/2024,1,0,test215,Riley Raymond,STR,Material,STR Property,Property Acquisitions
+4/20/2024,5,0,test216,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+9/18/2024,5,0,test217,Riley Raymond,LTR,Material,LTR Property,Property Selling
+8/13/2024,3,0,test218,Ronald Raymond,LTR,Material,LTR Property,Property Acquisitions
+10/31/2024,9,0,test219,Riley Raymond,STR,Material,STR Property,Property Improvements and Repairs
+12/24/2024,2,0,test220,Riley Raymond,STR,Material,STR Property,Property Selling
+4/20/2024,4,0,test221,Riley Raymond,STR,Material,STR Property,Property Selling
+4/26/2024,1,0,test222,Ronald Raymond,STR,Material,STR Property,Property Improvements and Repairs
+9/1/2024,2,0,test223,Riley Raymond,LTR,Material,LTR Property,Property Acquisitions

@@ -1,0 +1,1 @@
+The new User type enables personal settings that exist outside of the Organization settings and are specific to the user that is logged in.  This is a type that is a higher root level than a TeamMember and an external type from Organization.

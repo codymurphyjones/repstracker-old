@@ -1,0 +1,1 @@
+- For the analytics log type, is this a data set we're also trying to migrate over, and if so, should we hold off until we have a larger discussion about the plan around the analytics platform, or is this an analytics system solely focussed around the idea of referrals?

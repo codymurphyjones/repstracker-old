@@ -1,0 +1,5 @@
+Date,Description,Hours,Minutes,Property,Property 2,Property 3,Team Member,Material?,Activity Group,Activity Subcategory,Type,Extra Data
+12/1/2024,test material,1,1,Empire State Building,,Hell's Kitchen,Fireina,Yes,,,LTR,1
+1/1/2025,Test General,2,2,Hell's Kitchen,,,,FALSE,Other,,LTR,2
+2/1/2025,Test  str,3,3,Hell's Kitchen,,,Fireina,,,,STR,five
+3/1/2025,Test Empty,4,4,Empire State Building,,,,No,,,LTR,

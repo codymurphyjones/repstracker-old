@@ -1,0 +1,1 @@
+- What is survey state and where can I reference it? It came up in one of my searches last week, but this week when looking for it, I couldn't find any specifics on it. 

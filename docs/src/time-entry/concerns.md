@@ -1,0 +1,4 @@
+- Discuss the Activity Type System, The "Old" Activity Type system and an implementation strategy for consolidating those patterns into a more linear system that isn't reliant on two unrelated data types.
+- Discuss how the SubActivity Group types fit into this new system, and how to account for them since if I remember correctly the new Activity Type System does not support SubActivity Groups.
+- Is there a bubble reason for receiving both a string and a number for the hours and minutes on a time sheet, or is it possible to eliminate the duplication during the migration since we have more control over the input flows
+- Does timezone string exist on the object in order to be used when processing on the backend, or is it possible to handle the timezone related question within the request itself and not store this on the object

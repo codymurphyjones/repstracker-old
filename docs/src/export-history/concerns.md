@@ -1,0 +1,1 @@
+- In reference to export history, there is a 'createdBy' value for references the user that made the export history but there is also a Team Member object to reference as well.  I also see a Property object, so I'm assuming that TeamMember and Property are filter values that were used to create the export, but I just wanted to verify before making any assumptions

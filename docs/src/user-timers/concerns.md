@@ -1,0 +1,1 @@
+For the user timer system, is it a safe assumption that they will not be in a circumstance where they need two timers running independent, or should these be stored at the Org-User level rather than just the User level

@@ -1,0 +1,5 @@
+Date,Description,Hours,Minutes,Property,Property 2,Property 3,Team Member,Material?,Activity Group,Activity Subcategory,Type,Extra Data
+12/1/2024,test material,1,1,Cody,,,,Yes,,,STR,Kristina Kringle
+1/1/2025,Test General,2,2,Empire,,,,FALSE,,,ltr,Kristina Kringle
+2/1/2025,Test  str,3,3,Home,,,,,,,STR,Karl Kringle
+3/1/2025,Test Empty,4,4,Mad Max,,,,no,,,LTR,Kristina Kringle

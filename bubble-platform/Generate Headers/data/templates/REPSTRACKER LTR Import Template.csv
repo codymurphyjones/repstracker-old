@@ -1,0 +1,9 @@
+Date,Description,Hours,Minutes,Property,Property 2,Team Member,Category,Activity Group,Activity Subcategory
+dd/mm/yyyy,A description goes here,2,30,Property Name,Second Property Name,Team Member Full Name,G,Group Name,Subcategory Name
+dd/mm/yyyy,A description goes here,0,27,Property Name,,Team Member Full Name,M,Group Name,Subcategory Name
+,,,,,,,,,
+,,,,,,,,,
+,,,Notes:,(Do not include within import),,,,,
+,,,Either Hours or Minutes must include a non zero value,,,,,,
+,,,Values are not case sensitive,,,,,,
+,,,Extra Columns will be ignored,,,,,,

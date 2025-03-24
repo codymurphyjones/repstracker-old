@@ -1,0 +1,2 @@
+- In regards to GroupSection, I couldn't remember if you said to skip one for now or not, so I went ahead and just ensured that we had it documented since it came along with the meta data call I already wrote.  Would be good to get some extra clarity on this one because I recall it being in the admin section.
+- Is there any reason to assume that the slug would be relevant for the GroupSection or GroupPage functionality?
